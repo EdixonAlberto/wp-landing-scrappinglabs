@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+		<title>Scrappinglabs</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Scrappinglabs &raquo; Feed" href="http://scrappinglabs.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Scrappinglabs &raquo; Feed de los comentarios" href="http://scrappinglabs.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/scrappinglabs.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='http://scrappinglabs.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:"0 0 1em 0"}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='http://scrappinglabs.com/wp-includes/css/classic-themes.min.css?ver=1' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dark-gray: #28303D;--wp--preset--color--gray: #39414D;--wp--preset--color--green: #D1E4DD;--wp--preset--color--blue: #D1DFE4;--wp--preset--color--purple: #D1D1E4;--wp--preset--color--red: #E4D1D1;--wp--preset--color--orange: #E4DAD1;--wp--preset--color--yellow: #EEEADD;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--purple-to-yellow: linear-gradient(160deg, #D1D1E4 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-purple: linear-gradient(160deg, #EEEADD 0%, #D1D1E4 100%);--wp--preset--gradient--green-to-yellow: linear-gradient(160deg, #D1E4DD 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-green: linear-gradient(160deg, #EEEADD 0%, #D1E4DD 100%);--wp--preset--gradient--red-to-yellow: linear-gradient(160deg, #E4D1D1 0%, #EEEADD 100%);--wp--preset--gradient--yellow-to-red: linear-gradient(160deg, #EEEADD 0%, #E4D1D1 100%);--wp--preset--gradient--purple-to-red: linear-gradient(160deg, #D1D1E4 0%, #E4D1D1 100%);--wp--preset--gradient--red-to-purple: linear-gradient(160deg, #E4D1D1 0%, #D1D1E4 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 18px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 24px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--extra-small: 16px;--wp--preset--font-size--normal: 20px;--wp--preset--font-size--extra-large: 40px;--wp--preset--font-size--huge: 96px;--wp--preset--font-size--gigantic: 144px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hfe-style-css' href='http://scrappinglabs.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.13' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='http://scrappinglabs.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.18.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='http://scrappinglabs.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.11.5' media='all' />
+<link rel='stylesheet' id='swiper-css' href='http://scrappinglabs.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css' href='http://scrappinglabs.com/wp-content/uploads/elementor/css/post-5.css?ver=1678911221' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='http://scrappinglabs.com/wp-content/uploads/elementor/css/global.css?ver=1679001360' media='all' />
+<link rel='stylesheet' id='elementor-post-9-css' href='http://scrappinglabs.com/wp-content/uploads/elementor/css/post-9.css?ver=1679002284' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css' href='http://scrappinglabs.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.13' media='all' />
+<link rel='stylesheet' id='elementor-post-302-css' href='http://scrappinglabs.com/wp-content/uploads/elementor/css/post-302.css?ver=1678998533' media='all' />
+<link rel='stylesheet' id='elementor-post-285-css' href='http://scrappinglabs.com/wp-content/uploads/elementor/css/post-285.css?ver=1678914098' media='all' />
+<link rel='stylesheet' id='twenty-twenty-one-style-css' href='http://scrappinglabs.com/wp-content/themes/twentytwentyone/style.css?ver=1.7' media='all' />
+<style id='twenty-twenty-one-style-inline-css'>
+:root{--global--color-background: #ffffff;--global--color-primary: #000;--global--color-secondary: #000;--button--color-background: #000;--button--color-text-hover: #000;}
+</style>
+<link rel='stylesheet' id='twenty-twenty-one-print-style-css' href='http://scrappinglabs.com/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.7' media='print' />
+<link rel='stylesheet' id='wpr-text-animations-css-css' href='http://scrappinglabs.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.min.css?ver=1.3.66' media='all' />
+<link rel='stylesheet' id='wpr-addons-css-css' href='http://scrappinglabs.com/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.3.66' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='http://scrappinglabs.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.3.66' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='http://scrappinglabs.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='http://scrappinglabs.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='http://scrappinglabs.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel="https://api.w.org/" href="http://scrappinglabs.com/wp-json/" /><link rel="alternate" type="application/json" href="http://scrappinglabs.com/wp-json/wp/v2/pages/9" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://scrappinglabs.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://scrappinglabs.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel="canonical" href="http://scrappinglabs.com/" />
+<link rel='shortlink' href='http://scrappinglabs.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://scrappinglabs.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fscrappinglabs.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://scrappinglabs.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fscrappinglabs.com%2F&#038;format=xml" />
+				<style type="text/css" id="cst_font_data">
+					@font-face {font-family: "Montserrat";font-display: auto;font-fallback: ;font-weight: 400;src: url(http://scrappinglabs.com/wp-content/uploads/montserrat.woff2) format('woff2');}				</style>
+				<meta name="generator" content="Elementor 3.11.5; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-disabled, font_display-swap">
+<style id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="http://scrappinglabs.com/wp-content/uploads/favicon.png" sizes="32x32" />
+<link rel="icon" href="http://scrappinglabs.com/wp-content/uploads/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://scrappinglabs.com/wp-content/uploads/favicon.png" />
+<meta name="msapplication-TileImage" content="http://scrappinglabs.com/wp-content/uploads/favicon.png" />
+<style id="wpr_lightbox_styles">
+				.lg-backdrop {
+					background-color: rgba(0,0,0,0.6) !important;
+				}
+				.lg-toolbar,
+				.lg-dropdown {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-dropdown:after {
+					border-bottom-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-sub-html {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-thumb-outer,
+				.lg-progress-bar {
+					background-color: #444444 !important;
+				}
+				.lg-progress {
+					background-color: #a90707 !important;
+				}
+				.lg-icon {
+					color: #efefef !important;
+					font-size: 20px !important;
+				}
+				.lg-icon.lg-toogle-thumb {
+					font-size: 24px !important;
+				}
+				.lg-icon:hover,
+				.lg-dropdown-text:hover {
+					color: #ffffff !important;
+				}
+				.lg-sub-html,
+				.lg-dropdown-text {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				#lg-counter {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				.lg-prev,
+				.lg-next {
+					font-size: 35px !important;
+				}
+
+				/* Defaults */
+				.lg-icon {
+				background-color: transparent !important;
+				}
+
+				#lg-counter {
+				opacity: 0.9;
+				}
+
+				.lg-thumb-outer {
+				padding: 0 10px;
+				}
+
+				.lg-thumb-item {
+				border-radius: 0 !important;
+				border: none !important;
+				opacity: 0.5;
+				}
+
+				.lg-thumb-item.active {
+					opacity: 1;
+				}
+	         </style>	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="home page-template page-template-elementor_canvas page page-id-9 custom-background wp-embed-responsive ehf-header ehf-footer ehf-template-twentytwentyone ehf-stylesheet-twentytwentyone is-light-theme has-background-white no-js singular has-main-navigation elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-9">
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>		<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline"><a href="http://scrappinglabs.com" title="Scrappinglabs" rel="home">Scrappinglabs</a></p>
+					<div data-elementor-type="wp-post" data-elementor-id="302" class="elementor elementor-302">
+							<div class="elementor-element elementor-element-1bc198f e-con-full e-con" data-id="1bc198f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-dee83ca e-con-full e-con" data-id="dee83ca" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-6539114 elementor-view-default elementor-widget elementor-widget-icon" data-id="6539114" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#">
+			<i aria-hidden="true" class="fab fa-linkedin-in"></i>			</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4dc9f95 elementor-view-default elementor-widget elementor-widget-icon" data-id="4dc9f95" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#">
+			<i aria-hidden="true" class="fab fa-instagram"></i>			</a>
+		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a2c9a67 e-con-full e-con" data-id="a2c9a67" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-19eca46 elementor-widget elementor-widget-text-editor" data-id="19eca46" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.5 - 14-03-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Comunícate con nuestro equipo comercial +549 11-3984-8049</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-8ffaaba elementor-widget elementor-widget-image" data-id="8ffaaba" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.5 - 14-03-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="#">
+							<img width="32" height="21" src="http://scrappinglabs.com/wp-content/uploads/esp.png" class="attachment-large size-large wp-image-343" alt="" loading="lazy" style="width:100%;height:65.63%;max-width:32px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-d720981 elementor-widget elementor-widget-image" data-id="d720981" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="#">
+							<img width="32" height="21" src="http://scrappinglabs.com/wp-content/uploads/eng.png" class="attachment-large size-large wp-image-344" alt="" loading="lazy" style="width:100%;height:65.63%;max-width:32px" />								</a>
+															</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6a92a73 e-con-full e-con" data-id="6a92a73" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-c6873d6 e-con-full e-con" data-id="c6873d6" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-4bb00c7 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="4bb00c7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="750" height="179" src="http://scrappinglabs.com/wp-content/uploads/logo-branding-1.png" class="attachment-medium_large size-medium_large wp-image-281" alt="" loading="lazy" style="width:100%;height:23.85%;max-width:2306px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-13548b7 e-con-full e-con" data-id="13548b7" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-899e5a1 wpr-main-menu-align-right wpr-pointer-none wpr-sub-icon-angle-down wpr-main-menu-align--tabletleft wpr-main-menu-align--mobileleft wpr-sub-menu-fx-fade wpr-nav-menu-bp-mobile wpr-mobile-menu-full-width wpr-mobile-menu-item-align-center wpr-mobile-toggle-v1 wpr-sub-divider-yes wpr-mobile-divider-yes elementor-widget elementor-widget-wpr-nav-menu" data-id="899e5a1" data-element_type="widget" data-settings="{&quot;menu_layout&quot;:&quot;horizontal&quot;}" data-widget_type="wpr-nav-menu.default">
+				<div class="elementor-widget-container">
+			<nav class="wpr-nav-menu-container wpr-nav-menu-horizontal" data-trigger="hover"><ul id="menu-1-899e5a1" class="wpr-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-439"><a href="#" class="wpr-menu-item wpr-pointer-item">Productos y servicios<i class="wpr-sub-icon fas" aria-hidden="true"></i></a>
+<ul class="sub-menu wpr-sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-433"><a href="#" class="wpr-sub-menu-item">Cero4</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="#" class="wpr-sub-menu-item">Pythagoras</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-435"><a href="#" class="wpr-sub-menu-item">Pyth Cloud ERP</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-432"><a href="#" class="wpr-sub-menu-item">Bazar de turismo</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430"><a href="#" class="wpr-sub-menu-item">Integraciones XML</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-431"><a href="#" class="wpr-sub-menu-item">Software Factory</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-436"><a href="#" class="wpr-menu-item wpr-pointer-item">Nosotros</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-437"><a href="#" class="wpr-menu-item wpr-pointer-item">Contacto</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-438"><a href="#" class="wpr-menu-item wpr-pointer-item">Novedades</a></li>
+</ul></nav><nav class="wpr-mobile-nav-menu-container"><div class="wpr-mobile-toggle-wrap"><div class="wpr-mobile-toggle"><span class="wpr-mobile-toggle-line"></span><span class="wpr-mobile-toggle-line"></span><span class="wpr-mobile-toggle-line"></span></div></div><ul id="mobile-menu-2-899e5a1" class="wpr-mobile-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-439"><a href="#" class="wpr-mobile-menu-item">Productos y servicios</a><button class="sub-menu-toggle" aria-expanded="false" onClick="twentytwentyoneExpandSubMenu(this)"><span class="icon-plus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M18 11.2h-5.2V6h-1.6v5.2H6v1.6h5.2V18h1.6v-5.2H18z" fill="currentColor"/></svg></span><span class="icon-minus"><svg class="svg-icon" width="18" height="18" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6 11h12v2H6z" fill="currentColor"/></svg></span><span class="screen-reader-text">Open menu</span></button>
+<ul class="sub-menu wpr-sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-433"><a href="#" class="wpr-mobile-sub-menu-item">Cero4</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434"><a href="#" class="wpr-mobile-sub-menu-item">Pythagoras</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-435"><a href="#" class="wpr-mobile-sub-menu-item">Pyth Cloud ERP</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-432"><a href="#" class="wpr-mobile-sub-menu-item">Bazar de turismo</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430"><a href="#" class="wpr-mobile-sub-menu-item">Integraciones XML</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-431"><a href="#" class="wpr-mobile-sub-menu-item">Software Factory</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-436"><a href="#" class="wpr-mobile-menu-item">Nosotros</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-437"><a href="#" class="wpr-mobile-menu-item">Contacto</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-438"><a href="#" class="wpr-mobile-menu-item">Novedades</a></li>
+</ul></nav>		</div>
+				</div>
+				</div>
+				</div>
+							</div>
+				</header>
+
+			<div data-elementor-type="wp-page" data-elementor-id="9" class="elementor elementor-9">
+							<div class="elementor-element elementor-element-5271d86 e-con-boxed e-con" data-id="5271d86" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/pyth.com.ar\/wp-content\/uploads\/2017\/07\/Ink-in-Water-Background-720p.mp4&quot;,&quot;animation&quot;:&quot;none&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-background-video-container elementor-hidden-phone">
+							<video class="elementor-background-video-hosted elementor-html5-video" autoplay muted playsinline loop></video>
+					</div><div class="elementor-element elementor-element-8c26eac e-con-full e-con" data-id="8c26eac" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-aba97f9 e-con-full e-con" data-id="aba97f9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-d2c4ee9 elementor-widget elementor-widget-image" data-id="d2c4ee9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="679" height="666" src="http://scrappinglabs.com/wp-content/uploads/logo-main.png" class="attachment-medium_large size-medium_large wp-image-25" alt="" loading="lazy" style="width:100%;height:98.09%;max-width:679px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-dba5028 e-con-full e-con" data-id="dba5028" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-1926590 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="1926590" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">PORTFOLIO DE TRABAJOS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4535468 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="4535468" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">CONTACTANOS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6d1397c e-con-full e-con" data-id="6d1397c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;animation&quot;:&quot;none&quot;}">
+		<div class="elementor-element elementor-element-854beb9 e-con-full e-con" data-id="854beb9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-d729a46 elementor-widget elementor-widget-text-editor" data-id="d729a46" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Branding, Desarrollo, Content Management, Email Marketing, Community Management para turiasmo.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4a52db5 elementor-widget elementor-widget-text-editor" data-id="4a52db5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Cero4 es una organización dedicada a brindar Soluciones de Comunicación Estratégica, eBusiness y Publishing con marcada orientación al Cliente.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-77a2773 e-con-full e-con" data-id="77a2773" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-4dd9aca elementor-widget elementor-widget-image-carousel" data-id="4dd9aca" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;3&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:32,&quot;sizes&quot;:[]},&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.5 - 14-03-2023 */
+.elementor-widget-image-carousel .swiper,.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure,.elementor-widget-image-carousel .swiper .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide,.elementor-image-carousel-wrapper:not(.swiper-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="http://scrappinglabs.com/wp-content/uploads/piamonte.png" alt="piamonte" /><div class="swiper-lazy-preloader"></div></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="http://scrappinglabs.com/wp-content/uploads/ncl.png" alt="ncl" /><div class="swiper-lazy-preloader"></div></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="http://scrappinglabs.com/wp-content/uploads/falabella.png" alt="falabella" /><div class="swiper-lazy-preloader"></div></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="http://scrappinglabs.com/wp-content/uploads/cuartocontinente.png" alt="cuartocontinente" /><div class="swiper-lazy-preloader"></div></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="http://scrappinglabs.com/wp-content/uploads/consolid.png" alt="consolid" /><div class="swiper-lazy-preloader"></div></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="http://scrappinglabs.com/wp-content/uploads/0003_essential.png" alt="0003_essential" /><div class="swiper-lazy-preloader"></div></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image swiper-lazy" data-src="http://scrappinglabs.com/wp-content/uploads/careyes.png" alt="careyes" /><div class="swiper-lazy-preloader"></div></figure></div>			</div>
+																</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e71a0a4 e-con-full e-con" data-id="e71a0a4" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-24f3356 e-con-full e-con" data-id="24f3356" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-8f54765 e-con-full e-con" data-id="8f54765" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-b4b8aa7 elementor-widget elementor-widget-text-editor" data-id="b4b8aa7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>Cero4 puede ser su próximo partner en comunicación</b></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-93e7206 elementor-widget elementor-widget-text-editor" data-id="93e7206" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Somos referentes en el rubro turístico, desarrollando soluciones de comunicación para los más diversos clientes. Nuestro equipo de profesionales multidisciplinario nos permite brindar soluciones in house para la comunicación. Trabajo en equipo y evolución son nuestras premisas.</p><p>Habiendo trabajado para los referentes del rubro estamos en condiciones de brindar una solución integral para la comunicación de su producto, servicio o marca. Por ello contamos con innumerables casos de éxito a través de un trabajo conjunto con el cliente.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b2ea593 e-con-boxed e-con" data-id="b2ea593" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-d1959ff e-con-full e-con" data-id="d1959ff" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-5a79761 elementor-widget elementor-widget-image" data-id="5a79761" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="35" height="35" src="http://scrappinglabs.com/wp-content/uploads/websites.png" class="attachment-large size-large wp-image-121" alt="" loading="lazy" style="width:100%;height:100%;max-width:35px" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-293194b e-con-full e-con" data-id="293194b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-499edf7 elementor-widget elementor-widget-heading" data-id="499edf7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.5 - 14-03-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Web & UX/UI</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b180d21 elementor-widget elementor-widget-text-editor" data-id="b180d21" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Diseño y arte de entornos digitales: websites, blogs, custom made softwares, banners, landing pages, campañas online – según criterios de usabilidad, originalidad y delimitaciones técnicas.</p>						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-5c9c81e e-con-full e-con" data-id="5c9c81e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-8e4a2e4 elementor-widget elementor-widget-image" data-id="8e4a2e4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="35" height="35" src="http://scrappinglabs.com/wp-content/uploads/dbms.png" class="attachment-large size-large wp-image-143" alt="" loading="lazy" style="width:100%;height:100%;max-width:35px" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-bcb20cd e-con-full e-con" data-id="bcb20cd" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-4f905cf elementor-widget elementor-widget-heading" data-id="4f905cf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">DBMS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f7ea660 elementor-widget elementor-widget-text-editor" data-id="f7ea660" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Data Warehouse, Data Cleaning y desarrollo de las bases de datos de clientes y prospectos para generar altas tasas de respuesta. Posicionamiento e imagen de marca a través de email marketing.</p>						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fdb2b60 e-con-full e-con" data-id="fdb2b60" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-fac5eb8 elementor-widget elementor-widget-image" data-id="fac5eb8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="35" height="35" src="http://scrappinglabs.com/wp-content/uploads/custom.png" class="attachment-large size-large wp-image-142" alt="" loading="lazy" style="width:100%;height:100%;max-width:35px" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-2a666e5 e-con-full e-con" data-id="2a666e5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-3784b1c elementor-widget elementor-widget-heading" data-id="3784b1c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Consultoría Gráfica</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a18b317 elementor-widget elementor-widget-text-editor" data-id="a18b317" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Campañas institucionales. Identidad corporativa y desarrollo de marca.<br />Folletería y gestión de impresión. Merchandising. Señalética. Presentaciones gráficas y audiovisuales.</p>						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-aea8593 e-con-full e-con" data-id="aea8593" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-3f95565 elementor-widget elementor-widget-image" data-id="3f95565" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="35" height="35" src="http://scrappinglabs.com/wp-content/uploads/e-commerce.png" class="attachment-large size-large wp-image-144" alt="" loading="lazy" style="width:100%;height:100%;max-width:35px" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-c90918b e-con-full e-con" data-id="c90918b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-b92e4e9 elementor-widget elementor-widget-heading" data-id="b92e4e9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">E-Commerce</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-eb90873 elementor-widget elementor-widget-text-editor" data-id="eb90873" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Expansión de las operaciones internas y externas del cliente mediante la utilización de tecnologías digitales. Apertura de corredores electrónicos de compra-venta.</p>						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-acd0b32 e-con-full e-con" data-id="acd0b32" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-48e08fe elementor-widget elementor-widget-image" data-id="48e08fe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="35" height="35" src="http://scrappinglabs.com/wp-content/uploads/smm.png" class="attachment-large size-large wp-image-146" alt="" loading="lazy" style="width:100%;height:100%;max-width:35px" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-b202c0a e-con-full e-con" data-id="b202c0a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-4feabd6 elementor-widget elementor-widget-heading" data-id="4feabd6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">SMM</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0008ddf elementor-widget elementor-widget-text-editor" data-id="0008ddf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Acciones a través de medios sociales aplicando contenidos multimediales únicos, atractivos y útiles para los usuarios; creación de la reputación online.</p>						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d2ac0d6 e-con-full e-con" data-id="d2ac0d6" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-47a6d74 elementor-widget elementor-widget-image" data-id="47a6d74" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="35" height="35" src="http://scrappinglabs.com/wp-content/uploads/seo-sem.png" class="attachment-large size-large wp-image-145" alt="" loading="lazy" style="width:100%;height:100%;max-width:35px" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-5d74479 e-con-full e-con" data-id="5d74479" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-a542b97 elementor-widget elementor-widget-heading" data-id="a542b97" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">SEO & SEM</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4359117 elementor-widget elementor-widget-text-editor" data-id="4359117" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Desarrollo de campañas y técnicas SEO para maximizar resultados y brindar reportes de métricas Analytics afines de conseguir el mejor posicionamiento.</p>						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-09c31d9 e-con-full e-con" data-id="09c31d9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-5796d62 elementor-widget elementor-widget-text-editor" data-id="5796d62" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>Servicios de Comunicación Estratégica</strong></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c15e5ea elementor-widget elementor-widget-text-editor" data-id="c15e5ea" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Vemos la comunicación estratégica como un proceso coordinado de convergencia de múltiples áreas en función de un sólo objetivo: Fortalecer la imagen de liderazgo de nuestros clientes a nivel organización, marca y/o producto. Para lograrlo trabajamos sobre los siguientes items:</p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-667a5f9 e-con-full e-con" data-id="667a5f9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-617c5b8 elementor-view-default elementor-widget elementor-widget-icon" data-id="617c5b8" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-minus-circle"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6f3c209 elementor-widget elementor-widget-text-editor" data-id="6f3c209" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Análisis Funcional de la Comunicación</p>						</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ebca41d elementor-widget elementor-widget-text-editor" data-id="ebca41d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Interpretación de las necesidades implícitas y explícitas de la acción publicitaria y delimitación de los objetivos comerciales.</p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-219f214 e-con-full e-con" data-id="219f214" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-78113c6 elementor-view-default elementor-widget elementor-widget-icon" data-id="78113c6" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-chevron-circle-down"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5ff83ba elementor-widget elementor-widget-text-editor" data-id="5ff83ba" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Market Intelligence</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4f00d1b e-con-full e-con" data-id="4f00d1b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-7639948 elementor-view-default elementor-widget elementor-widget-icon" data-id="7639948" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-chevron-circle-down"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4b98c4e elementor-widget elementor-widget-text-editor" data-id="4b98c4e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Definición de la Estrategia</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-29de177 e-con-full e-con" data-id="29de177" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-c1d7263 elementor-view-default elementor-widget elementor-widget-icon" data-id="c1d7263" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-chevron-circle-down"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f6028c3 elementor-widget elementor-widget-text-editor" data-id="f6028c3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Desarrollo</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ecdedf4 e-con-full e-con" data-id="ecdedf4" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-1c8ae0c elementor-view-default elementor-widget elementor-widget-icon" data-id="1c8ae0c" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-chevron-circle-down"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-19f643d elementor-widget elementor-widget-text-editor" data-id="19f643d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Timming</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c136cc2 e-con-full e-con" data-id="c136cc2" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-830748d elementor-view-default elementor-widget elementor-widget-icon" data-id="830748d" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-chevron-circle-down"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-297bdcd elementor-widget elementor-widget-text-editor" data-id="297bdcd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Presupuesto</p>						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2ae48d5 e-con-full e-con" data-id="2ae48d5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-cc8c8d1 e-con-full e-con" data-id="cc8c8d1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<a class="elementor-element elementor-element-6972e44 e-con-full e-con" data-id="6972e44" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="#">
+				<div class="elementor-element elementor-element-a804512 elementor-widget elementor-widget-text-editor" data-id="a804512" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Avisos<br />+ ver más</p>						</div>
+				</div>
+				</a>
+		<a class="elementor-element elementor-element-25ea97d e-con-full e-con" data-id="25ea97d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="#">
+				<div class="elementor-element elementor-element-385d4ea elementor-widget elementor-widget-text-editor" data-id="385d4ea" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Desarrollo Web<br />+ ver más</p>						</div>
+				</div>
+				</a>
+		<a class="elementor-element elementor-element-d1a8d95 e-con-full e-con" data-id="d1a8d95" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="#">
+				<div class="elementor-element elementor-element-9ebf401 elementor-widget elementor-widget-text-editor" data-id="9ebf401" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Folletos<br />+ ver más</p>						</div>
+				</div>
+				</a>
+		<a class="elementor-element elementor-element-b5aee46 e-con-full e-con" data-id="b5aee46" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="#">
+				<div class="elementor-element elementor-element-9585224 elementor-widget elementor-widget-text-editor" data-id="9585224" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Branding<br />+ ver más</p>						</div>
+				</div>
+				</a>
+				</div>
+		<div class="elementor-element elementor-element-49eadc8 e-con-full e-con" data-id="49eadc8" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<a class="elementor-element elementor-element-383413b e-con-full e-con" data-id="383413b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="#">
+				<div class="elementor-element elementor-element-2a35d34 elementor-widget elementor-widget-text-editor" data-id="2a35d34" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Newsletters<br />+ ver más</p>						</div>
+				</div>
+				</a>
+		<a class="elementor-element elementor-element-673960e e-con-full e-con" data-id="673960e" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="#">
+				<div class="elementor-element elementor-element-1c6c4a3 elementor-widget elementor-widget-text-editor" data-id="1c6c4a3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Redes Sociales<br />+ ver más</p>						</div>
+				</div>
+				</a>
+		<a class="elementor-element elementor-element-1bb31ae e-con-full e-con" data-id="1bb31ae" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="#">
+				<div class="elementor-element elementor-element-8615b4b elementor-widget elementor-widget-text-editor" data-id="8615b4b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Stands/Eventos<br />+ ver más</p>						</div>
+				</div>
+				</a>
+		<a class="elementor-element elementor-element-99482e1 e-con-full e-con" data-id="99482e1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}" href="#">
+				<div class="elementor-element elementor-element-1ec3cb7 elementor-widget elementor-widget-text-editor" data-id="1ec3cb7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Vídeos<br />+ ver más</p>						</div>
+				</div>
+				</a>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-adee778 e-con-full e-con" data-id="adee778" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-0a9e157 e-con-full e-con" data-id="0a9e157" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-b0315f6 elementor-widget elementor-widget-text-editor" data-id="b0315f6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>Publishing</strong></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4e79564 elementor-widget elementor-widget-text-editor" data-id="4e79564" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>La información y la difusión son la más fuerte de las armas. Por eso brindamos desarrollo, gestión y consultoría en proyectos editoriales y audiovisuales en soportes clásicos o adaptados a las nuevas tecnologías.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6ff3919 e-con-full e-con" data-id="6ff3919" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-97b0cd8 e-con-full e-con" data-id="97b0cd8" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-9906a00 elementor-view-default elementor-widget elementor-widget-icon" data-id="9906a00" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-circle"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e69c864 elementor-widget elementor-widget-text-editor" data-id="e69c864" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Data Research y Proyección</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-82fdeba e-con-full e-con" data-id="82fdeba" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-71b01d0 elementor-view-default elementor-widget elementor-widget-icon" data-id="71b01d0" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-circle"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-14a707c elementor-widget elementor-widget-text-editor" data-id="14a707c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Edición de Contenidos</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6451306 e-con-full e-con" data-id="6451306" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-b7f3f15 elementor-view-default elementor-widget elementor-widget-icon" data-id="b7f3f15" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-circle"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-30fd2fc elementor-widget elementor-widget-text-editor" data-id="30fd2fc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Edición Gráfica</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-77c2566 e-con-full e-con" data-id="77c2566" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-a2235b4 elementor-view-default elementor-widget elementor-widget-icon" data-id="a2235b4" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-circle"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-13c5638 elementor-widget elementor-widget-text-editor" data-id="13c5638" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Maquetación</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fdfd3c6 e-con-full e-con" data-id="fdfd3c6" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-a133558 elementor-view-default elementor-widget elementor-widget-icon" data-id="a133558" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-circle"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5c06520 elementor-widget elementor-widget-text-editor" data-id="5c06520" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Fact Check (Circuito de revisión)</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6ff3998 e-con-full e-con" data-id="6ff3998" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-cc91577 elementor-view-default elementor-widget elementor-widget-icon" data-id="cc91577" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-circle"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-bde4fa3 elementor-widget elementor-widget-text-editor" data-id="bde4fa3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Gestión de Imprenta / Edición audiovisual</p>						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+							</div>
+				<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'>		<div data-elementor-type="wp-post" data-elementor-id="285" class="elementor elementor-285">
+							<div class="elementor-element elementor-element-6240df1 e-con-full e-con" data-id="6240df1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-5ece1fb e-con-full e-con" data-id="5ece1fb" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-265feb3 e-con-full e-con" data-id="265feb3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-72e62c9 elementor-widget elementor-widget-image" data-id="72e62c9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="#">
+							<img width="150" height="71" src="http://scrappinglabs.com/wp-content/uploads/data-fiscal.jpg" class="attachment-thumbnail size-thumbnail wp-image-294" alt="" loading="lazy" style="width:100%;height:47.12%;max-width:520px" />								</a>
+															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-827fcd8 e-con-full e-con" data-id="827fcd8" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-23e65fb elementor-view-default elementor-widget elementor-widget-icon" data-id="23e65fb" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#">
+			<i aria-hidden="true" class="fab fa-linkedin-in"></i>			</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-65bb39e elementor-view-default elementor-widget elementor-widget-icon" data-id="65bb39e" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#">
+			<i aria-hidden="true" class="fab fa-instagram"></i>			</a>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-28acee0 e-con-full e-con" data-id="28acee0" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-57077c7 elementor-widget elementor-widget-text-editor" data-id="57077c7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>© 2020 Todos los derechos reservados | Pythagoras Software Solutions | Buenos Aires | Argentina</p>						</div>
+				</div>
+				</div>
+				</div>
+							</div>
+		</div>		</footer>
+	<script>document.body.classList.remove("no-js");</script>	<script>
+	if ( -1 !== navigator.userAgent.indexOf( 'MSIE' ) || -1 !== navigator.appVersion.indexOf( 'Trident/' ) ) {
+		document.body.classList.add( 'is-IE' );
+	}
+	</script>
+	<link rel='stylesheet' id='wpr-link-animations-css-css' href='http://scrappinglabs.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/wpr-link-animations.min.css?ver=1.3.66' media='all' />
+<script id='twenty-twenty-one-ie11-polyfills-js-after'>
+( Element.prototype.matches && Element.prototype.closest && window.NodeList && NodeList.prototype.forEach ) || document.write( '<script src="http://scrappinglabs.com/wp-content/themes/twentytwentyone/assets/js/polyfills.js?ver=1.7"></scr' + 'ipt>' );
+</script>
+<script src='http://scrappinglabs.com/wp-content/themes/twentytwentyone/assets/js/primary-navigation.js?ver=1.7' id='twenty-twenty-one-primary-navigation-script-js'></script>
+<script src='http://scrappinglabs.com/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.7' id='twenty-twenty-one-responsive-embeds-script-js'></script>
+<script src='http://scrappinglabs.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script src='http://scrappinglabs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script id='wpr-addons-js-js-extra'>
+var WprConfig = {"ajaxurl":"http:\/\/scrappinglabs.com\/wp-admin\/admin-ajax.php","resturl":"http:\/\/scrappinglabs.com\/wp-json\/wpraddons\/v1","nonce":"8fd5c65767"};
+</script>
+<script src='http://scrappinglabs.com/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.3.66' id='wpr-addons-js-js'></script>
+<script src='http://scrappinglabs.com/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.3.66' id='wpr-modal-popups-js-js'></script>
+<script src='http://scrappinglabs.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.11.5' id='elementor-webpack-runtime-js'></script>
+<script src='http://scrappinglabs.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.11.5' id='elementor-frontend-modules-js'></script>
+<script src='http://scrappinglabs.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='http://scrappinglabs.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil grande","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta grande","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.11.5","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"landing-pages":true,"nested-elements":true,"kit-elements-defaults":true},"urls":{"assets":"http:\/\/scrappinglabs.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":9,"title":"Scrappinglabs","excerpt":"","featuredImage":false}};
+</script>
+<script src='http://scrappinglabs.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.11.5' id='elementor-frontend-js'></script>
+		<script>
+		/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",(function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())}),!1);
+		</script>
+			</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Almacenamiento en caché de páginas con disk: enhanced 
+
+Served from: scrappinglabs.com @ 2023-03-16 22:00:34 by W3 Total Cache
+-->
