@@ -2,7 +2,7 @@
 
 Landing hecho en WordPress
 
-<!-- **DEMO** &#x279c; []() -->
+**DEMO** &#x279c; [https://scrappinglabs-demo.netlify.app/](https://scrappinglabs-demo.netlify.app/)
 
 ## Preparar Entorno
 
